@@ -62,5 +62,9 @@ unrealengine.com
 103.10.124.44
 103.10.125.146
 155.133.238.163
-
+prod.telemetry.ros.rockstargames.com
+tracking.epicgames.com
+gfwsl.geforce.com
+heartbeat.dm.origin.com
+store.steampowered.com
 
